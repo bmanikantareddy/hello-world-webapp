@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:jre8-temurin-focal
+From tomcat:9.0.8-jre8-alpine
 
 # Maintainer 
 MAINTAINER "bmanikantareddy@gmail.com" 
