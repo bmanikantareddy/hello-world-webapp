@@ -259,7 +259,7 @@
   <scm>
     <connection>scm:git:git@github.com:bmanikantareddy/hello-world-webapp.git</connection>
     <developerConnection>scm:git:git@github.com:bmanikantareddy/hello-world-webapp.git</developerConnection>
-    <tag>1.0.0</tag>
+    <tag>HEAD</tag>
     <url>https://github.com/bmanikantareddy/hello-world-webapp.git</url>
   </scm>
 
